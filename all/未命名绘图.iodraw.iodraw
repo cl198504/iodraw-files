@@ -11,10 +11,7 @@
           <mxGeometry x="241" y="169" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-8" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="241" y="395" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IJrgM2sHTproZL-BSjEc-10" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="242" y="441" width="50" height="30" as="geometry" />
+          <mxGeometry x="241" y="330" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-12" value="prot&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};rotation=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="126" width="80" height="30" as="geometry" />
