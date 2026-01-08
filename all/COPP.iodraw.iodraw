@@ -285,6 +285,9 @@
         <mxCell id="Yd4cROxh_qv00Afqz7qW-21" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="360" y="579" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Yd4cROxh_qv00Afqz7qW-22" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
