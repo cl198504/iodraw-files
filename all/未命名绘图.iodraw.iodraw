@@ -75,6 +75,23 @@
         <mxCell id="IJrgM2sHTproZL-BSjEc-25" value="DMA CHANNEL" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="490" y="199" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="IJrgM2sHTproZL-BSjEc-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="144" as="sourcePoint" />
+            <mxPoint x="300" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="128" />
+              <mxPoint x="440" y="58" />
+              <mxPoint x="770" y="158" />
+              <mxPoint x="420" y="53" />
+              <mxPoint x="420" y="158" />
+              <mxPoint x="390" y="63" />
+              <mxPoint x="400" y="73" />
+              <mxPoint x="400" y="83" />
+              <mxPoint x="400" y="73" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
