@@ -28,10 +28,10 @@
         <mxCell id="IJrgM2sHTproZL-BSjEc-10" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="242" y="441" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IJrgM2sHTproZL-BSjEc-12" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};rotation=-180;" vertex="1" parent="1">
+        <mxCell id="IJrgM2sHTproZL-BSjEc-12" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};rotation=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="126" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IJrgM2sHTproZL-BSjEc-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="IJrgM2sHTproZL-BSjEc-12" parent="1">
+        <mxCell id="IJrgM2sHTproZL-BSjEc-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="IJrgM2sHTproZL-BSjEc-12" parent="1" source="IJrgM2sHTproZL-BSjEc-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="168" as="sourcePoint" />
           </mxGeometry>
