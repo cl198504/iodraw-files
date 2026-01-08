@@ -10,9 +10,6 @@
         <mxCell id="IJrgM2sHTproZL-BSjEc-3" value="q 2" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="241" y="169" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IJrgM2sHTproZL-BSjEc-4" value="q3" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="241" y="212" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-8" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="241" y="395" width="50" height="30" as="geometry" />
         </mxCell>
@@ -47,6 +44,7 @@
             <mxPoint x="250" y="200" as="sourcePoint" />
             <mxPoint x="149" y="222" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="240" y="180" />
               <mxPoint x="220" y="175" />
               <mxPoint x="190" y="185" />
               <mxPoint x="200" y="195" />
