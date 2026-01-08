@@ -11,28 +11,28 @@
           <mxGeometry x="241" y="179" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-4" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="251" y="190" width="50" height="30" as="geometry" />
+          <mxGeometry x="241" y="218" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-5" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="261" y="200" width="50" height="30" as="geometry" />
+          <mxGeometry x="251" y="228" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-6" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="271" y="210" width="50" height="30" as="geometry" />
+          <mxGeometry x="261" y="238" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-7" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="281" y="220" width="50" height="30" as="geometry" />
+          <mxGeometry x="271" y="248" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-8" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="291" y="230" width="50" height="30" as="geometry" />
+          <mxGeometry x="281" y="258" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-9" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="301" y="240" width="50" height="30" as="geometry" />
+          <mxGeometry x="291" y="268" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-10" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="311" y="250" width="50" height="30" as="geometry" />
+          <mxGeometry x="301" y="278" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-11" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="321" y="260" width="50" height="30" as="geometry" />
+          <mxGeometry x="311" y="288" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
