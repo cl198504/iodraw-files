@@ -53,8 +53,10 @@
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1" target="IJrgM2sHTproZL-BSjEc-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="200" y="210" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="220" y="210" />
+              <mxPoint x="220" y="220" />
               <mxPoint x="220" y="210" />
             </Array>
           </mxGeometry>
