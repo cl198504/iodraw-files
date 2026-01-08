@@ -75,7 +75,7 @@
         <mxCell id="IJrgM2sHTproZL-BSjEc-25" value="DMA CHANNEL" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="490" y="199" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJrgM2sHTproZL-BSjEc-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IJrgM2sHTproZL-BSjEc-25">
+        <mxCell id="IJrgM2sHTproZL-BSjEc-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJrgM2sHTproZL-BSjEc-25" target="IJrgM2sHTproZL-BSjEc-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="438" y="144" as="sourcePoint" />
             <mxPoint x="290" y="150" as="targetPoint" />
@@ -90,6 +90,24 @@
               <mxPoint x="400" y="73" />
               <mxPoint x="400" y="83" />
               <mxPoint x="400" y="73" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJrgM2sHTproZL-BSjEc-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="209" as="sourcePoint" />
+            <mxPoint x="275" y="136" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="250" />
+              <mxPoint x="440" y="138" />
+              <mxPoint x="450" y="68" />
+              <mxPoint x="780" y="168" />
+              <mxPoint x="430" y="63" />
+              <mxPoint x="430" y="168" />
+              <mxPoint x="400" y="73" />
+              <mxPoint x="410" y="83" />
+              <mxPoint x="410" y="93" />
+              <mxPoint x="410" y="83" />
             </Array>
           </mxGeometry>
         </mxCell>
