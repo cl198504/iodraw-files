@@ -23,10 +23,10 @@
           <mxGeometry x="242" y="348" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-8" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="241" y="402" width="50" height="30" as="geometry" />
+          <mxGeometry x="241" y="395" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IJrgM2sHTproZL-BSjEc-10" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="242" y="466" width="50" height="30" as="geometry" />
+          <mxGeometry x="242" y="441" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
