@@ -131,8 +131,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJrgM2sHTproZL-BSjEc-29" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="410" width="120" height="200" as="geometry" />
+        <mxCell id="IJrgM2sHTproZL-BSjEc-29" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="120" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
